@@ -10,6 +10,4 @@
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
-  <view>2.知识点2</view>
-  <text>知识点2</text>
 </view>
